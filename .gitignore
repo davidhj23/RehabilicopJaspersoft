@@ -37,3 +37,27 @@ overridedb.*
 dump.rdb
 transaction-logs
 
+/Epicrisis.jasper
+/EpicrisisMaster.jasper
+/Evoluciones.jasper
+/EvolucionesMaster.jasper
+/HistoriaAlergicos.jasper
+/HistoriaAnalisis.jasper
+/HistoriaAntecedentes.jasper
+/HistoriaExamenFisico.jasper
+/HistoriaExamenFisico2.jasper
+/HistoriaExamenFisico3.jasper
+/HistoriaExamenFisico4.jasper
+/HistoriaExamenFisico5.jasper
+/HistoriaExamenFisico6.jasper
+/HistoriaFarmacologico.jasper
+/HistoriaGineco.jasper
+/HistoriaMaster.jasper
+/HistoriaPatologico.jasper
+/HistoriaPodromos.jasper
+/HistoriaToxicos.jasper
+/HistoriaTraumaticos.jasper
+/NotasEnfermeria.jasper
+/NotasEnfermeriaMaster.jasper
+/OrdenesMedicas.jasper
+/OrdenesMedicasMaster.jasper
